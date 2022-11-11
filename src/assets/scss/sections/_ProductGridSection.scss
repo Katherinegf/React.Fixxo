@@ -1,4 +1,4 @@
-.product-grid {
+.product-tiles {
     margin-top: 30px;
     margin-bottom: 60px;
 
@@ -19,14 +19,15 @@
       
         .card-img {
             display: grid;
-            background-color: $linear-gradient-light;
+            background-color: $color-linear-gradient-light;
             position: relative;
-
+            
             img {
-               width: 100%;
-               height: 210px;
-               object-fit: cover;
+                width: 100%;
+                height: 210px;
+                object-fit: cover;
             }
+            
             .card-menu {
                 position: absolute;
                 top: 10px;

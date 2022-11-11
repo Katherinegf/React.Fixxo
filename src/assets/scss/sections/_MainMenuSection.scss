@@ -3,12 +3,12 @@
     padding-top: 10px;
     padding-bottom: 10px;
     grid-template-columns: 1fr 1fr;
-    grid-template-areas: "logo menuicons"
+    grid-template-areas:  "logo menuicons"
                           "menulinks menulinks";
   
 
     .logo {
-        grid-area: logo;
+        grid-area: logo; 
         font-size: 25px;
         font-weight: 700;
         color:$color-dark;
@@ -95,26 +95,15 @@
     .mainmenu {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        grid-template-areas: logo menulinks menuicons;
-        padding-top: 20px;
-        padding-bottom: 20px;
+        grid-template-areas: "logo menulinks menuicons";
      
         .menu-links {
-
-            grid-area: menulinks;
-            font-weight: 500;
-            display:inline;
-            height: 100%;
-            width:100%;
+            display: flex;
             justify-content: center;
-            align-items: center;
             
            .menu-link {
              display: inline;
            }
-
-           
-           
         }                    
 
     }

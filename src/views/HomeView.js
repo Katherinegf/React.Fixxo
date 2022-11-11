@@ -9,9 +9,9 @@ const HomeView = () => {
   return (
     <>
       <MainMenu />
-      <ProductTiles title= "Featured Products"  />
-      <ProductTiles title= "Top Products"  />
-       <FooterSection />
+      <ProductTiles title="Featured Products" />
+      <ProductTiles title="Top Products" />
+      <FooterSection />
     </>
   )
 }
