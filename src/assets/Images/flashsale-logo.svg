@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1110" height="326" viewBox="0 0 1110 326">
+  <g id="Up_to_70_off_" data-name="Up to 70% off*" transform="translate(-405 -4804)">
+    <g id="img">
+      <rect id="bg" width="1110" height="326" transform="translate(405 4804)" fill="#bbb"/>
+      <rect id="overlay" width="1110" height="326" transform="translate(405 4804)" fill="#23262a" opacity="0.4"/>
+    </g>
+    <g id="text">
+      <text id="Women_s_Men_s_Kids_Winter_Fashion" data-name="Women&apos;s, Men&apos;s &amp; Kids&apos; Winter Fashion" transform="translate(761 4955)" fill="#fff" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Women&apos;s, Men&apos;s &amp; Kids&apos; Winter Fashion</tspan></text>
+      <text id="Up_to_70_off_2" data-name="Up to 70% off*" transform="translate(803 4901)" fill="#fff" font-size="45" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Up to 70% off*</tspan></text>
+    </g>
+    <g id="btn" transform="translate(-171 2285)">
+      <g id="bg-2" data-name="bg">
+        <rect id="bg-3" data-name="bg" width="186" height="60" transform="translate(1038 2720)" fill="#fff"/>
+        <path id="Union_1" data-name="Union 1" d="M1847,59h-18V57h18V39h2V59Z" transform="translate(-635 2711)" fill="#222529"/>
+        <path id="Union_2" data-name="Union 2" d="M1847,59h-18V57h18V39h2V59Z" transform="translate(2897 2789) rotate(180)" fill="#222529"/>
+      </g>
+      <text id="FLASE_SALE" data-name="FLASE SALE" transform="translate(1088 2756)" fill="#222529" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">FLASE SALE</tspan></text>
+    </g>
+  </g>
+</svg>
